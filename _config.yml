@@ -1,0 +1,28 @@
+name: Hirofumi Tanigami
+favicon: null
+layout_spectrum: 0.814221728593111
+typography_spectrum: 0.3387592425569892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7984683495014906
+  lightness: 0.3615006448235363
+  saturation: 0.992039987584576
+  rhythmicContrast: 0.48890741006471217
+purpose: []
