@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Just testing it…
-datePublished: '2016-05-06T05:38:12.529Z'
-dateModified: '2016-05-06T05:37:52.087Z'
+datePublished: '2016-05-06T05:39:39.661Z'
+dateModified: '2016-05-06T05:38:53.598Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-just-testing-it.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-just-testing-it.md
 url: just-testing-it/index.html
 _type: Article
 
