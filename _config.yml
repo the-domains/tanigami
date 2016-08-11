@@ -1,7 +1,7 @@
 name: Hirofumi Tanigami
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.63009
 title: Hirofumi Tanigami
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.75
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
