@@ -4,8 +4,15 @@
         <description><![CDATA[Hirofumi Tanigami]]></description>
         <link>http://tanigami.wtf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 09:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 09:13:48 GMT</lastBuildDate>
         <atom:link href="http://tanigami.wtf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/163469326</p>]]></description>
+            <link>http://tanigami.wtf/httpsvimeocom163469326/index.html</link>
+            <guid isPermaLink="false">cd1befa2-7d86-4669-85ed-b734089b2c5f</guid>
+            <pubDate>Thu, 11 Aug 2016 09:13:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Perlin Noise Beauty on Max/MSP]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e786b89c-fc4e-4fa2-ac58-de308bd6277c.jpg">]]></description>
