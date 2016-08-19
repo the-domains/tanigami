@@ -1,20 +1,4 @@
-name: Hirofumi Tanigami
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.18164
-title: Hirofumi Tanigami
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-82277519-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#060608'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-82277519-1
+  facebook: null
+  twitter: null
+name: Hirofumi Tanigami
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: OMIMI
+    url: 'https://omimi.tanigami.wtf/'
+    type: external
+favicon: null
+title: Hirofumi Tanigami
 purpose: []
