@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hirofumi Tanigami]]></title>
+        <description><![CDATA[Hirofumi Tanigami]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 02:13:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Smooth with Ken Perlin on Max/MSP - OMIMI]]></title>
+            <description><![CDATA[<article><h1>Get Smooth with Ken Perlin on Max/MSP - OMIMI</h1><p>Get Smooth with Ken Perlin on Max/MSP Randomness can be one of key factors in creating something algorithmically. Taking it out of your completely intended control, it would show itself, like you know, just like children to behave unexpectedly in front of you. Uncertainty makes difference. Alright then, let's go random!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36db9df4f3029476221e3005fdb309d7/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*yckeoW7CcQf6NbOkllbcwg.jpeg"></article>]]></description>
+            <link>https://omimi.tanigami.wtf/get-smooth-with-ken-perlin-on-max-msp-337630ecd2ad</link>
+            <guid isPermaLink="false">17823961-671a-4f5a-b953-26d42fcd8cee</guid>
+            <pubDate>Fri, 19 Aug 2016 02:13:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
