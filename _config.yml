@@ -28,6 +28,9 @@ navigation:
   - name: OMIMI
     url: 'https://omimi.tanigami.wtf/'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/tanigami'
+    type: external
 favicon: null
 title: ''
 purpose: []
