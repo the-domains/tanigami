@@ -31,6 +31,9 @@ navigation:
   - name: OMIMI
     url: 'https://omimi.tanigami.wtf/'
     type: external
+  - name: WAGG
+    url: 'https://wagg.jp/'
+    type: external
 favicon: null
 title: ''
 purpose: []
