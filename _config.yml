@@ -34,6 +34,9 @@ navigation:
   - name: OMIMI
     url: 'https://omimi.tanigami.wtf/'
     type: external
+  - name: GitHub
+    url: 'https://github.com/tanigami'
+    type: external
 favicon: null
 title: ''
 purpose: []
